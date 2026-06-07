@@ -54,7 +54,8 @@ Correlation analysis shows no single variable strongly predicts churn. The highe
 4. **Engagement monitoring** — customers with declining login frequency are early churn signals
 
 ## Dashboard Preview
-![Dashboard](Screenshot_2026-06-07_131746.png)
+<img width="1128" height="638" alt="Screenshot 2026-06-07 131746" src="https://github.com/user-attachments/assets/7b6703fe-cca6-41d1-b095-7df793b0d7b5" />
+
 
 ## Project Structure
 - `churn_analysis.ipynb` — Python EDA and visualisations
